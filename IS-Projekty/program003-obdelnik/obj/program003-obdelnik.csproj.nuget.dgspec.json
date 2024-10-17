@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\IS-2024\\github-ah-is-2024-sk3\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
+    "C:\\IS-2024\\github-ah-is-2024-sk3\\IS-Projekty\\program003-obdelnik\\program003-obdelnik.csproj": {}
   },
   "projects": {
-    "C:\\IS-2024\\github-ah-is-2024-sk3\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj": {
+    "C:\\IS-2024\\github-ah-is-2024-sk3\\IS-Projekty\\program003-obdelnik\\program003-obdelnik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\IS-2024\\github-ah-is-2024-sk3\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
-        "projectName": "program001-vypis-rady",
-        "projectPath": "C:\\IS-2024\\github-ah-is-2024-sk3\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectUniqueName": "C:\\IS-2024\\github-ah-is-2024-sk3\\IS-Projekty\\program003-obdelnik\\program003-obdelnik.csproj",
+        "projectName": "program003-obdelnik",
+        "projectPath": "C:\\IS-2024\\github-ah-is-2024-sk3\\IS-Projekty\\program003-obdelnik\\program003-obdelnik.csproj",
         "packagesPath": "C:\\Users\\ahett\\.nuget\\packages\\",
-        "outputPath": "C:\\IS-2024\\github-ah-is-2024-sk3\\IS-Projekty\\program001-vypis-rady\\obj\\",
+        "outputPath": "C:\\IS-2024\\github-ah-is-2024-sk3\\IS-Projekty\\program003-obdelnik\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahett\\AppData\\Roaming\\NuGet\\NuGet.Config"

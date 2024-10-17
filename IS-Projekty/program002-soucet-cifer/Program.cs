@@ -1,4 +1,6 @@
-﻿﻿string again = "a";
+﻿Console.ForegroundColor = ConsoleColor.Green;
+
+﻿string again = "a";
         while(again == "a") {
 
             Console.Clear();

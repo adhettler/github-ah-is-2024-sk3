@@ -1,5 +1,6 @@
 ﻿﻿using System;
 
+Console.ForegroundColor = ConsoleColor.Green;
 class Program {
 
     static void Main() {
