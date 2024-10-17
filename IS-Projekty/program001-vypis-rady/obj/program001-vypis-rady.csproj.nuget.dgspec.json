@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\IS-2024\\github-ah-is-2024-sk3\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
+    "c:\\IS-2024\\github-ah-is-2024-sk3\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
   },
   "projects": {
-    "C:\\IS-2024\\github-ah-is-2024-sk3\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj": {
+    "c:\\IS-2024\\github-ah-is-2024-sk3\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\IS-2024\\github-ah-is-2024-sk3\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectUniqueName": "c:\\IS-2024\\github-ah-is-2024-sk3\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
         "projectName": "program001-vypis-rady",
-        "projectPath": "C:\\IS-2024\\github-ah-is-2024-sk3\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectPath": "c:\\IS-2024\\github-ah-is-2024-sk3\\IS-Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
         "packagesPath": "C:\\Users\\ahett\\.nuget\\packages\\",
-        "outputPath": "C:\\IS-2024\\github-ah-is-2024-sk3\\IS-Projekty\\program001-vypis-rady\\obj\\",
+        "outputPath": "c:\\IS-2024\\github-ah-is-2024-sk3\\IS-Projekty\\program001-vypis-rady\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahett\\AppData\\Roaming\\NuGet\\NuGet.Config"
