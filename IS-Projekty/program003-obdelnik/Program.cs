@@ -61,7 +61,7 @@ string again = "a";
            
             Console.WriteLine();
             Console.WriteLine();
-            Console.WriteLine("Program můžete opakovat stiskem klávesy 'a'");
+            Console.WriteLine("Program můžete opakovat stiskem klávesy 'a' ");
             again = Console.ReadLine();    
 
         }
