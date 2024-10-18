@@ -18,14 +18,14 @@ class Program
             Console.WriteLine();
             Console.WriteLine();
 
-            Console.Write("Zadejte výšku obrazce (kladné celé číslo): ");
+            Console.Write("Zadejte výšku trojuhelníku (kladné celé číslo): ");
             uint height;
             while (!uint.TryParse(Console.ReadLine(), out height))
             {
                 Console.Write("Nezadali jste kladné celé číslo. Zadejte číslo (celé číslo): ");
             }
 
-            Console.Write("Zadejte šířku (základnu) obrazce (kladné celé číslo): ");
+            Console.Write("Zadejte šířku (základnu) trojuhelníku (kladné celé číslo): ");
             uint width;
             while (!uint.TryParse(Console.ReadLine(), out width))
             {
@@ -41,7 +41,7 @@ class Program
 
             for (int i = 1; i <= height; i++)
             {
-            // Počet hvězd pro aktuální řádek               
+            // Počet hvězd pro řádek               
                 int stars = (int)(i * width / height);
                 for (int j = 1; j <= stars; j++)
                 {
