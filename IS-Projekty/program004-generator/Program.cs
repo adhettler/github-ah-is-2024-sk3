@@ -1,5 +1,5 @@
 ﻿string again = "a";
-        while(again == "a") {
+     while(again == "a") {
 
             Console.Clear();
             Console.WriteLine("*****************************************");
@@ -34,6 +34,24 @@
             Console.WriteLine("Zadané hodnoty: ");
             Console.WriteLine("Počet čísel: {0}, dolní mez {1}, horní mez {2}", n, dm, hm);
             Console.WriteLine("========================================================\n\n");
+
+
+            // deklacrace pole o velikosti n prvků
+            int[] myArray = new int[n];
+
+            // příprava pro generátor náhodných čísel
+            Random randomnumber = new Random();
+
+
+            for (int i = 0; i < n; i++) {
+                myArray[i] = randomnumber.Next (dm, hm+1);
+                Console.Write("{0};", myArray[i]);
+
+            }
+            
+
+
+
             
             
            
@@ -42,4 +60,4 @@
             Console.WriteLine("Program můžete opakovat stiskem klávesy 'a'");
             again = Console.ReadLine();    
 
-        }
+        }   
