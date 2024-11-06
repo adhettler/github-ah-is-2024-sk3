@@ -1,0 +1,15 @@
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\prgram003ca-dalsi-obrazec\bin\Debug\net8.0\prgram003ca-dalsi-obrazec.exe
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\prgram003ca-dalsi-obrazec\bin\Debug\net8.0\prgram003ca-dalsi-obrazec.deps.json
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\prgram003ca-dalsi-obrazec\bin\Debug\net8.0\prgram003ca-dalsi-obrazec.runtimeconfig.json
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\prgram003ca-dalsi-obrazec\bin\Debug\net8.0\prgram003ca-dalsi-obrazec.dll
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\prgram003ca-dalsi-obrazec\bin\Debug\net8.0\prgram003ca-dalsi-obrazec.pdb
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\prgram003ca-dalsi-obrazec\obj\Debug\net8.0\prgram003ca-dalsi-obrazec.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\prgram003ca-dalsi-obrazec\obj\Debug\net8.0\prgram003ca-dalsi-obrazec.AssemblyInfoInputs.cache
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\prgram003ca-dalsi-obrazec\obj\Debug\net8.0\prgram003ca-dalsi-obrazec.AssemblyInfo.cs
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\prgram003ca-dalsi-obrazec\obj\Debug\net8.0\prgram003ca-dalsi-obrazec.csproj.CoreCompileInputs.cache
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\prgram003ca-dalsi-obrazec\obj\Debug\net8.0\prgram003ca-dalsi-obrazec.sourcelink.json
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\prgram003ca-dalsi-obrazec\obj\Debug\net8.0\prgram003ca-dalsi-obrazec.dll
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\prgram003ca-dalsi-obrazec\obj\Debug\net8.0\refint\prgram003ca-dalsi-obrazec.dll
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\prgram003ca-dalsi-obrazec\obj\Debug\net8.0\prgram003ca-dalsi-obrazec.pdb
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\prgram003ca-dalsi-obrazec\obj\Debug\net8.0\prgram003ca-dalsi-obrazec.genruntimeconfig.cache
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\prgram003ca-dalsi-obrazec\obj\Debug\net8.0\ref\prgram003ca-dalsi-obrazec.dll

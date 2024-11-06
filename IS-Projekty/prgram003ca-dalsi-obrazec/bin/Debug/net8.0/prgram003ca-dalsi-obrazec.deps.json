@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "prgram003ca-dalsi-obrazec/1.0.0": {
+        "runtime": {
+          "prgram003ca-dalsi-obrazec.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prgram003ca-dalsi-obrazec/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
