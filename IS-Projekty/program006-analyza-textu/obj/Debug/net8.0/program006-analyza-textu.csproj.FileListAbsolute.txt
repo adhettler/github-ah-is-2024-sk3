@@ -1,0 +1,15 @@
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\program006-analyza-textu\bin\Debug\net8.0\program006-analyza-textu.exe
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\program006-analyza-textu\bin\Debug\net8.0\program006-analyza-textu.deps.json
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\program006-analyza-textu\bin\Debug\net8.0\program006-analyza-textu.runtimeconfig.json
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\program006-analyza-textu\bin\Debug\net8.0\program006-analyza-textu.dll
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\program006-analyza-textu\bin\Debug\net8.0\program006-analyza-textu.pdb
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.AssemblyInfoInputs.cache
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.AssemblyInfo.cs
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.csproj.CoreCompileInputs.cache
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.sourcelink.json
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.dll
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\refint\program006-analyza-textu.dll
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.pdb
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.genruntimeconfig.cache
+C:\IS-2024\github-ah-is-2024-sk3\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\ref\program006-analyza-textu.dll
