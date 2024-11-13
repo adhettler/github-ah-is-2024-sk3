@@ -11,7 +11,7 @@
 
             Console.Write("\n\nZadejte text pro analýzu:");
 
-            string myText = Console.ReadLine();
+            string myText = Console.ReadLine().ToLower();
 
             Console.WriteLine();
             Console.WriteLine(myText);
@@ -19,8 +19,8 @@
             Console.WriteLine(myText.Length);
             Console.WriteLine(myText[myText.Length-1]);
 
-            string samohlasky = "aáeéiíúuůyý";
-            string souhlasky = "bcčdďfghjklmnňpqrřsštťvwxzž¨BCČDĎFGHJKLMNŇPQRŘSŠTŤVWXZŽ";
+            string samohlasky = "aáeéěiíúuůyý";
+            string souhlasky = "bcčdďfghjklmnňpqrřsštťvwxzž";
             string cislice = "0123456789";
 
             int pocetSouhlasek = 0;
