@@ -1,0 +1,15 @@
+C:\aaa\github-ah-is-2024-sk3\IS-Projekty\program014a-10to2\bin\Debug\net9.0\program014a-10to2.exe
+C:\aaa\github-ah-is-2024-sk3\IS-Projekty\program014a-10to2\bin\Debug\net9.0\program014a-10to2.deps.json
+C:\aaa\github-ah-is-2024-sk3\IS-Projekty\program014a-10to2\bin\Debug\net9.0\program014a-10to2.runtimeconfig.json
+C:\aaa\github-ah-is-2024-sk3\IS-Projekty\program014a-10to2\bin\Debug\net9.0\program014a-10to2.dll
+C:\aaa\github-ah-is-2024-sk3\IS-Projekty\program014a-10to2\bin\Debug\net9.0\program014a-10to2.pdb
+C:\aaa\github-ah-is-2024-sk3\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\github-ah-is-2024-sk3\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.AssemblyInfoInputs.cache
+C:\aaa\github-ah-is-2024-sk3\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.AssemblyInfo.cs
+C:\aaa\github-ah-is-2024-sk3\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.csproj.CoreCompileInputs.cache
+C:\aaa\github-ah-is-2024-sk3\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.sourcelink.json
+C:\aaa\github-ah-is-2024-sk3\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.dll
+C:\aaa\github-ah-is-2024-sk3\IS-Projekty\program014a-10to2\obj\Debug\net9.0\refint\program014a-10to2.dll
+C:\aaa\github-ah-is-2024-sk3\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.pdb
+C:\aaa\github-ah-is-2024-sk3\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.genruntimeconfig.cache
+C:\aaa\github-ah-is-2024-sk3\IS-Projekty\program014a-10to2\obj\Debug\net9.0\ref\program014a-10to2.dll
